@@ -6,8 +6,6 @@ import { AppComponent } from './app.component';
 //Modules
 import { SharedModule } from './shared/shared.module';
 import { CoreModule } from './core/core.module';
-import { FooterComponent } from './core/layers/footer/footer.component';
-import { NavbarComponent } from './core/layers/navbar/navbar.component';
 
 @NgModule({
   declarations: [AppComponent],
